@@ -4,7 +4,7 @@
     <output url="file://$MODULE_DIR$/target/classes" />
     <output-test url="file://$MODULE_DIR$/target/test-classes" />
     <content url="file://$MODULE_DIR$">
-      <sourceFolder url="file://$MODULE_DIR$/ConfigServer/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/target" />
     </content>
     <orderEntry type="inheritedJdk" />
@@ -30,7 +30,6 @@
     <orderEntry type="library" name="Maven: org.apache.tomcat.embed:tomcat-embed-websocket:10.1.30" level="project" />
     <orderEntry type="library" name="Maven: org.springframework:spring-webmvc:6.1.13" level="project" />
     <orderEntry type="library" name="Maven: org.springframework:spring-aop:6.1.13" level="project" />
-    <orderEntry type="library" name="Maven: org.springframework:spring-context:6.1.13" level="project" />
     <orderEntry type="library" name="Maven: org.springframework:spring-expression:6.1.13" level="project" />
     <orderEntry type="library" name="Maven: org.springframework.boot:spring-boot-starter-validation:3.3.4" level="project" />
     <orderEntry type="library" name="Maven: org.apache.tomcat.embed:tomcat-embed-el:10.1.30" level="project" />
@@ -44,7 +43,6 @@
     <orderEntry type="library" name="Maven: org.apache.httpcomponents.client5:httpclient5:5.3.1" level="project" />
     <orderEntry type="library" name="Maven: org.apache.httpcomponents.core5:httpcore5:5.2.5" level="project" />
     <orderEntry type="library" name="Maven: org.apache.httpcomponents.core5:httpcore5-h2:5.2.5" level="project" />
-    <orderEntry type="library" name="Maven: org.slf4j:slf4j-api:2.0.16" level="project" />
     <orderEntry type="library" name="Maven: org.eclipse.jgit:org.eclipse.jgit:6.6.1.202309021850-r" level="project" />
     <orderEntry type="library" name="Maven: com.googlecode.javaewah:JavaEWAH:1.2.3" level="project" />
     <orderEntry type="library" name="Maven: org.eclipse.jgit:org.eclipse.jgit.http.apache:6.6.1.202309021850-r" level="project" />
@@ -62,7 +60,6 @@
     <orderEntry type="library" name="Maven: com.fasterxml.jackson.core:jackson-core:2.17.2" level="project" />
     <orderEntry type="library" scope="TEST" name="Maven: org.springframework.boot:spring-boot-starter-test:3.3.4" level="project" />
     <orderEntry type="library" name="Maven: org.springframework.boot:spring-boot-starter:3.3.4" level="project" />
-    <orderEntry type="library" name="Maven: org.springframework.boot:spring-boot:3.3.4" level="project" />
     <orderEntry type="library" name="Maven: org.springframework.boot:spring-boot-starter-logging:3.3.4" level="project" />
     <orderEntry type="library" name="Maven: ch.qos.logback:logback-classic:1.5.8" level="project" />
     <orderEntry type="library" name="Maven: ch.qos.logback:logback-core:1.5.8" level="project" />
@@ -70,7 +67,6 @@
     <orderEntry type="library" name="Maven: org.apache.logging.log4j:log4j-api:2.23.1" level="project" />
     <orderEntry type="library" name="Maven: org.slf4j:jul-to-slf4j:2.0.16" level="project" />
     <orderEntry type="library" name="Maven: jakarta.annotation:jakarta.annotation-api:2.1.1" level="project" />
-    <orderEntry type="library" scope="TEST" name="Maven: org.springframework.boot:spring-boot-test:3.3.4" level="project" />
     <orderEntry type="library" scope="TEST" name="Maven: org.springframework.boot:spring-boot-test-autoconfigure:3.3.4" level="project" />
     <orderEntry type="library" scope="TEST" name="Maven: com.jayway.jsonpath:json-path:2.9.0" level="project" />
     <orderEntry type="library" scope="TEST" name="Maven: jakarta.xml.bind:jakarta.xml.bind-api:4.0.2" level="project" />
@@ -98,7 +94,14 @@
     <orderEntry type="library" scope="TEST" name="Maven: com.vaadin.external.google:android-json:0.0.20131108.vaadin1" level="project" />
     <orderEntry type="library" name="Maven: org.springframework:spring-core:6.1.13" level="project" />
     <orderEntry type="library" name="Maven: org.springframework:spring-jcl:6.1.13" level="project" />
-    <orderEntry type="library" scope="TEST" name="Maven: org.springframework:spring-test:6.1.13" level="project" />
+    <orderEntry type="library" name="Maven: org.springframework:spring-test:6.1.13" level="project" />
     <orderEntry type="library" scope="TEST" name="Maven: org.xmlunit:xmlunit-core:2.9.1" level="project" />
+    <orderEntry type="library" name="Maven: org.springframework.boot:spring-boot-test:3.3.4" level="project" />
+    <orderEntry type="library" name="Maven: org.springframework.boot:spring-boot:3.3.4" level="project" />
+    <orderEntry type="library" name="Maven: org.springframework:spring-context:6.1.13" level="project" />
+    <orderEntry type="library" name="Maven: org.testng:testng:7.10.2" level="project" />
+    <orderEntry type="library" name="Maven: org.slf4j:slf4j-api:2.0.16" level="project" />
+    <orderEntry type="library" name="Maven: com.beust:jcommander:1.82" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Maven: org.webjars:jquery:3.7.1" level="project" />
   </component>
 </module>

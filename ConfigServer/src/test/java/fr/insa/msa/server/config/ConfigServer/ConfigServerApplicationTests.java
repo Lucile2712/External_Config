@@ -1,6 +1,6 @@
-package fr.insa.msa.server.config.ConfigServer;
+package test.java.fr.insa.msa.server.config.ConfigServer;
 
-import org.junit.jupiter.api.Test;
+import org.testng.annotations.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
